@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Создано для Александра</Text>
+      <Text>Добавлен dev(test)</Text>
     </View>
   );
 }
